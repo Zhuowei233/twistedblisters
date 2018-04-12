@@ -28,7 +28,7 @@ const playerProps = {
   width: 30,
 };
 const imageFiles = [
-  { name: "player", path: "assets/box.png" },
+  { name: "player", path: "assets/cannibal2.png" },
   { name: "floor", path: "assets/floor.png" },
   { name: "platform", path: "assets/platform.png" },
 ];
